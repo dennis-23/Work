@@ -1,0 +1,22 @@
+body{
+ /* font-family: "Gill Sans", sans-serif; */
+  font-family: system-ui;
+  background: #fff5ea;
+  font-size: 120%;
+}
+hr{
+  border-style: none;
+  border-top: 5px dotted;
+  width: 150px;
+  color: #ff9642;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+}
+h1{
+  color: #af2d2d;
+}
+h2{
+  color: #af2d2d;
+}
