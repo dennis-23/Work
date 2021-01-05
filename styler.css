@@ -4,12 +4,12 @@ body{
   background: #fff5ea;
   font-size: 120%;
 }
-hr{
+/*hr{
   border-style: none;
   border-top: 5px dotted;
   width: 150px;
   color: #ff9642;
-}
+}*/
 .profile{
     height: 200px;
     width: 200px;
